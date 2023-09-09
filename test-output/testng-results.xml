@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-09T11:46:51 IST" name="Default suite" finished-at="2023-09-09T11:47:04 IST" duration-ms="12956">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T11:46:51 IST" name="Default test" finished-at="2023-09-09T11:47:04 IST" duration-ms="12956">
+      <class name="TestCases.readtableTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.readtableTest@4007f65e]" started-at="2023-09-09T11:46:51 IST" name="setup" finished-at="2023-09-09T11:46:59 IST" duration-ms="7882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tablereadtest()[pri:0, instance:TestCases.readtableTest@4007f65e]" started-at="2023-09-09T11:46:59 IST" name="tablereadtest" finished-at="2023-09-09T11:47:04 IST" duration-ms="4894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tablereadtest -->
+        <test-method is-config="true" signature="exit()[pri:0, instance:TestCases.readtableTest@4007f65e]" started-at="2023-09-09T11:47:04 IST" name="exit" finished-at="2023-09-09T11:47:04 IST" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit -->
+      </class> <!-- TestCases.readtableTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
