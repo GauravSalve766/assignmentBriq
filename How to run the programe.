@@ -1,0 +1,5 @@
+File contain the different packages named as base, pages, utitlity, and testcases.
+Base contain testbse format which contain all the basic requirement which are required to run our programe.
+In page- it has the all the actions that are mentioned in the test/assignment.
+And in testcases- I have created the one test case which is depends on the class present in page package.
+To run that test case you have to right click on it and click on the run as button then click on run as test.
